@@ -1,2 +1,2 @@
 # hello-world
-First repository
+First repository - This is my first repo-----------Myself Vijeta Sinha.
